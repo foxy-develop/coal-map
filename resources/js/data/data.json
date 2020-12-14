@@ -1,0 +1,2365 @@
+[
+  {
+    id: 1,
+    title: "Ладыжинская ТЭС",
+    owner: "Ахметов Ринат Леонидович (Dtek Energy B.V.)",
+    person: "Снегин Игорь Петрович",
+    address: "г. Ладыжин, ул. Наконечного, 24320",
+    latitude: 48.706098,
+    longitude: 29.219872,
+    phones: "(043)4365387",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "672 км. "
+      },
+      {
+        name: "Горностаевка",
+        distance: "660 км."
+      },
+      {
+        name: "Словечно",
+        distance: "463 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "572 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "632 км."
+      }
+    ],
+    region: "UA-05",
+    rate: 2.8,
+    type: {
+      id: 2,
+      name: "ТЭС"
+    }
+  },
+  {
+    id: 2,
+    title: "Приднепровская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "Боричевский Анатолий Михайлович",
+    address: "г. Днепр, ул. Гаванская, 1, 49112",
+    latitude: 48.405699,
+    longitude: 35.112105,
+    phones: "380567189350",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "670 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "692 км."
+      },
+      {
+        name: "Словечно",
+        distance: "778 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "904 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1055 км."
+      }
+    ],
+    region: "UA-12",
+    rate: 1.4,
+    type: {
+      id: 2,
+      name: "ТЭС",
+    }
+  },
+  {
+    id: 3,
+    title: "ТЕХНО-ПРОМ-ИМПУЛЬС",
+    owner: "Киселёв Дмитрий Николаевич",
+    person: "Киселёв Дмитрий Николаевич",
+    address: "г. Днепр, ул. Крылова коммисара, 14, 49124",
+    latitude: 48.48283,
+    longitude: 35.102873,
+    phones: "380509799993",
+    railways: 2,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "661 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "685 км."
+      },
+      {
+        name: "Словечно",
+        distance: "771 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "897 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1048 км."
+      }
+    ],
+    region: "UA-12",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+    }
+  },
+  {
+    id: 4,
+    title: "УКРСПЕЦЦЕМЕНТ",
+    subtitle: "Прекращено",
+    owner: "Сербиненко Евгений Виталиевич",
+    person: "Сербиненко Евгений Виталиевич",
+    address: "г. Днепр, пл. Ленина, 1, 49028",
+    latitude: 48.463948,
+    longitude: 35.046306,
+    phones: "",
+    railways: 0,
+    destinations: [],
+    region: "UA-12",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+    }
+  },
+  {
+    id: 5,
+    title: "ЦЕМЕНТ-ИНВЕСТ",
+    owner:
+    "Конечный бенефициарный владелец (контроллер) отсутствует в связи с невозможностью раскрытия конфиденциальной информации про нерезидента",
+    person: "Игнатьев Евгений Владимирович",
+    address: "г. Днепр, просп. Труда, 6, 49000",
+    latitude: 48.410005,
+    longitude: 35.036072,
+    phones: "380567160353",
+    railways: 2,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "674 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "695 км."
+      },
+      {
+        name: "Словечно",
+        distance: "776 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "902 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1053 км."
+      }
+    ],
+    region: "UA-12",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+    }
+  },
+  {
+    id: 6,
+    title: "Криворожская ТЭС",
+    owner: "Ахметов Ринат Леонидович (Dtek Energy B.V.)",
+    person: "Дегтяренко Сергей Михайлович",
+    address: "г. Зеленодольск, пл. Энергетиков, 1, 53860",
+    latitude: 47.543998,
+    longitude: 33.657901,
+    phones: "(056) 556-27-48",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "610 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "686 км."
+      },
+      {
+        name: "Словечно",
+        distance: "738 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "864 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1015 км."
+      }
+    ],
+    region: "UA-12",
+    rate: 2.5,
+    type: {
+      id: 2,
+      name: "ТЭС",
+    }
+  },
+  {
+    id: 7,
+    title: "УКРЦЕМЕНТ",
+    owner: "Конечный бенефициарный владелец отсутствует",
+    person: "Скильский Роман Владимирович",
+    address: "г. Каменское, ул. Спортивная, 36, 51908",
+    latitude: 48.513801,
+    longitude: 34.59948,
+    site: 'http://ukrcement.com.ua/',
+    phones: "+38 044 393-43-77, +38 044 393-43-77, +38 044 393-43-78",
+    railways: 2,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "643 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "669 км."
+      },
+      {
+        name: "Словечно",
+        distance: "733 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "859 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1010 км."
+      }
+    ],
+    region: "UA-12",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+    }
+  },
+  {
+    id: 8,
+    title: "КРИВОЙ РОГ ЦЕМЕНТ",
+    owner: "Шестак Иван Николаевич",
+    person: "Завиновский Игорь Станиславович",
+    address: "г. Каменское, ул. Тритузная, 37, 51921",
+    latitude: 48.5251454,
+    longitude: 34.5828313,
+    phones: "380562387500, 380562387501",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "638 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "641 км."
+      },
+      {
+        name: "Словечно",
+        distance: "698 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "817 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "968 км."
+      }
+    ],
+    region: "UA-12",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+    }
+  },
+  {
+    id: 9,
+    title: "ДНЕПРОПЕТРОВСКИЙ ЦЕМЕНТНЫЙ ЗАВОД",
+    owner: "Карпенко Михаил Махайлович",
+    person: "Ткачук Галина Александровна",
+    address: "г. Днепр, ул. Ударников 42м, 49019",
+    latitude: 48.479811,
+    longitude: 34.992057,
+    phones: "38(068)42034203",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "669 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "693 км."
+      },
+      {
+        name: "Словечно",
+        distance: "764 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "886 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1040 км."
+      }
+    ],
+    region: "UA-12",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 10,
+    title: "ПРОМЦЕМЕНТ",
+    owner: "НАКОНЕЧНИЙ ТАРАС СТЕПАНОВИЧ (СОЮЗПРОМИНВЕСТДОНБАС)",
+    person: "ДОБРЯНСЬКИЙ АНДРІЙ АНАТОЛІЙОВИЧ",
+    address: "ул. Заводская, 1",
+    latitude: 47.801806,
+    longitude: 38.488535,
+    phones: "38 (062) 345-92-30",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "847 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "909 км."
+      },
+      {
+        name: "Словечно",
+        distance: "1017 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1143 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1296 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 11,
+    title: "Донецкий металлургический завод",
+    owner: "КІНЦЕВИЙ БЕНЕФІЦІАРНИЙ ВЛАСНИК ВІДСУТНІЙ",
+    person: "Салєєв Ільдар Азізюляєвич",
+    address: "вулиця Челюскінців, 174, Донецьк, Донецька область, 83000",
+    latitude: 47.9898451,
+    longitude: 37.7917014,
+
+    phones: "(06239)205-00",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "807 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "856 км."
+      },
+      {
+        name: "Словечно",
+        distance: "964 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1090 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1243 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 5,
+      name: "Металлургия",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 12,
+    title: "МССС",
+    owner: "ЛІСУН ОЛЕГ АНАТОЛІЙОВИЧ",
+    person: "ЛІСУН ОЛЕГ АНАТОЛІЙОВИЧ",
+    address: "просп. Мира, 15, оф. 72",
+    latitude: 48.016865,
+    longitude: 37.810656,
+
+    phones: "(062)3048147",
+    railways: 0,
+    destinations: [],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 13,
+    title: "СТРОМАЦЕМЕНТ",
+    owner: "Фізичні і Юридичні особи",
+    person: "ДРОНОВА ВАЛЕНТИНА ОЛЕГІВНА",
+    address: "ул. Хирургическая, 22а",
+    latitude: 48.003351,
+    longitude: 37.761051,
+    phones: "80625922010",
+    railways: 0,
+    destinations: [],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 14,
+    title: "Енакиевский металлургический завод",
+    owner: "Ахметов Рінат Леонідович",
+    person: "Зайцева Тетяна Вікторівна",
+    address: "",
+    latitude: 48.2222307,
+    longitude: 38.2263384,
+    phones: "(0625)29-23-01",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "800 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "864 км."
+      },
+      {
+        name: "Словечно",
+        distance: "976 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1102 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1255 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 5,
+      name: "Металлургия",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 15,
+    title: "ЦЕМЕНТ ДОНБАССА (Прекращено)",
+    owner: '"СИ-БИ-АР ПОРТЛАНД Б.В."',
+    person: "ІВАНОВ ВОЛОДИМИР МИКОЛАЙОВИЧ",
+    address: "ул. Марата, 1",
+    latitude: 48.229103,
+    longitude: 38.227679,
+
+    phones: "",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "793 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "864 км."
+      },
+      {
+        name: "Словечно",
+        distance: "976 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1102 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1255 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 16,
+    title: "Зуевская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "Данилюк Иван Павлович",
+    address: "ул. 60 лет Октября, 100",
+    latitude: 48.017838,
+    longitude: 38.256741,
+
+    phones: "(06245) 97619, (06245) 97521",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "800 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "906 км."
+      },
+      {
+        name: "Словечно",
+        distance: "1014 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1140 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1293 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 17,
+    title: "Зуевская экспериментальная ТЭЦ",
+    subtitle: "в состоянии прекращения в ведомости ЕДРПОУ на 31.08.2020",
+    owner: "МІНІСТЕРСТВО ЕНЕРГЕТИКИ ТА ВУГІЛЬНОЇ ПРОМИСЛОВОСТІ УКРАЇНИ",
+    person: "Сучков Алексей Анатольевич",
+    address: "ул. Станционная, 1",
+    latitude: 48.0166381,
+    longitude: 38.2578095,
+
+    phones: "(06257) 40390, (+380-57) 728-29-29",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "803 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "865 км."
+      },
+      {
+        name: "Словечно",
+        distance: "973 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1099 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1252 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 1,
+      name: "ТЭЦ",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 18,
+    title: "Цемент Донбасса",
+    owner: "",
+    person: "",
+    address: "Енакиево, ул.12 Декабря",
+    latitude: 47.8327849,
+    longitude: 38.4745028,
+
+    phones: "",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "847 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "909 км."
+      },
+      {
+        name: "Словечно",
+        distance: "1017 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1143 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1296 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 19,
+    title: "Старобешевская ТЭС",
+    owner: 'РП "Энергия Донбасса"',
+    person: "Бекеров Валерий Аметович (и.о.директора)",
+    address: "ул. Энергетическая",
+    latitude: 47.799443,
+    longitude: 38.005891,
+
+    phones: "38 (071) 314-55-03, 38 (062) 537-73-59",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "834 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "885 км."
+      },
+      {
+        name: "Словечно",
+        distance: "993 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1119 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1272 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 20,
+    title: "Донцемент (Прекращено)",
+    owner: "ЮРИДИЧНІ ОСОБИ-АКЦІОНЕРИ",
+    person: "ЛИСЕНКО СТАНІСЛАВ ВОЛОДИМИРОВИЧ",
+    address: "ул.12 Декабря, 14",
+    latitude: 47.8018424,
+    longitude: 38.4691887,
+
+    phones: "825922518, 825922560",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "847 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "909 км."
+      },
+      {
+        name: "Словечно",
+        distance: "1017 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1143 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1296 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 21,
+    title: "Краматорский металлургический завод им. Куйбышева",
+    owner:
+    "КРАМАТОРСЬКИЙ МЕТАЛУРГІЙНИЙ ЗАВОД ІМЕНІ КУЙБИШЕВА визнаний банкротом від 24.09.2013 № 5006/5/24б/2012 Господарський суд Донецької області",
+    person: "МАНЦОВ МИХАЙЛО ВАСИЛЬОВИЧ",
+    address: "",
+    latitude: 48.7348443,
+    longitude: 37.54761,
+
+    phones: "",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "704 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "775 км."
+      },
+      {
+        name: "Словечно",
+        distance: "883 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1009 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1162 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 5,
+      name: "Металлургия",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 22,
+    title: "КРАМАТОРСКИЙ ЦЕМЕНТНЫЙ ЗАВОД-ПУШКА",
+    owner: "ФІЛАРЕТОС КАЛЬЦИДІС",
+    person: "ГОРГОЛЮК ВІТАЛІЙ ВІКЕНТІЙОВИЧ",
+    address: "ул. Привокзальная, 2",
+    latitude: 48.7189766,
+    longitude: 37.5418685,
+
+    phones: "(062)2103431",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "706 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "775 км."
+      },
+      {
+        name: "Словечно",
+        distance: "883 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1009 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1162 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 23,
+    title: "Кураховская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "Валантір Станіслав Миколайович",
+    address: "ул. Энергетиков, 34",
+    latitude: 47.994241,
+    longitude: 37.244801,
+
+    phones: "(062)7835359",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "780 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "821 км."
+      },
+      {
+        name: "Словечно",
+        distance: "929 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1055 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1208 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 24,
+    title: "Мариупольский металлургический комбинат им. Ильича",
+    owner: "Ахметов Рінат Леонідович (Metinvest B.v.)",
+    person: "Шевченко Тарас Григорьевич",
+    address: "",
+    latitude: 47.1395084,
+    longitude: 37.5920986,
+
+    phones: "(0629)56-40-09",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "917 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "958 км."
+      },
+      {
+        name: "Словечно",
+        distance: "235 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "259 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "415 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 5,
+      name: "Металлургия",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 25,
+    title: "Металлургический комбинат «Азовсталь»",
+    owner: "Ахметов Рінат Леонідович (Metinvest B.v.)",
+    person: "ЦКІТІШВІЛІ ЕНВЕР ОМАРОВИЧ",
+    address: "",
+    latitude: 47.1017562,
+    longitude: 37.575577,
+
+    phones: "(0629)46-79-55",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "926 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "967 км."
+      },
+      {
+        name: "Словечно",
+        distance: "1075 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1201 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1354 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 5,
+      name: "Металлургия",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 26,
+    title: "СЛ-ЦЕМЕНТ",
+    owner: "ШВАЛЕВА АНТОНІНА ТИМОФІЇВНА",
+    person: "ШВАЛЕВА АНТОНІНА ТИМОФІЇВНА",
+    address: "ул. Зелинского, 98",
+    latitude: 47.102504,
+    longitude: 37.516826,
+
+    phones: "80676280925",
+    railways: 0,
+    destinations: [],
+    region: "UA-14",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 27,
+    title: "Славянская ТЭС",
+    owner: 'БЕНШ РОБЕРТ ДЖОЗЕФ (ПАТ "ДОНБАСЕНЕРГО")',
+    person: "Валерий Черепий",
+    address: "ул. Сечевых Стрельцов, д. 9",
+    latitude: 48.871352,
+    longitude: 37.764788,
+
+    phones: "38(06262) 4-91-43, 4-93-51",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "697 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "777 км."
+      },
+      {
+        name: "Словечно",
+        distance: "885 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1011 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1164 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 28,
+    title: "Мироновская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "Згінник Олександр Іванович",
+    address: "ул. Мира, 43",
+    latitude: 48.479541,
+    longitude: 38.285608,
+
+    phones: "380501302533",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "767 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "829 км."
+      },
+      {
+        name: "Словечно",
+        distance: "972 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1098 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1251 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 29,
+    title: "Углегорская ТЭС",
+    owner: 'Корчинський Олександр Сигізмундович (ПАТ "ЦЕНТРЕНЕРГО")',
+    person: "ТАРУТІН СЕРГІЙ ГЕОРГІЙОВИЧ",
+    address: "",
+    latitude: 48.463008,
+    longitude: 38.2025,
+
+    phones: "",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "780 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "1241 км."
+      },
+      {
+        name: "Словечно",
+        distance: "962 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1089 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1241 км."
+      }
+    ],
+    region: "UA-14",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 30,
+    title: "Запорожская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "ШОВГЕЛЯ СЕРГІЙ ВОЛОДИМИРОВИЧ",
+    address: "ул. Промышленная, 95",
+    latitude: 47.506496,
+    longitude: 34.632602,
+
+    phones: "(061)3932756, (061)3931546",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "893 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "917 км."
+      },
+      {
+        name: "Словечно",
+        distance: "988 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1114 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1265 км."
+      }
+    ],
+    region: "UA-23",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 31,
+    title: "Калушская ТЭЦ-НОВАЯ",
+    owner: "МІНІСТЕРСТВО ЕНЕРГЕТИКИ УКРАЇНИ",
+    person: "Гельнер Богдан Володимирович",
+    personSubtitle: "в.о.директора",
+    address: "ул. Промышленная, 1",
+    latitude: 49.071111,
+    longitude: 24.319167,
+
+    phones: "38(034)-727-89-11",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "865 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "856 км."
+      },
+      {
+        name: "Словечно",
+        distance: "621 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "488 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "404 км."
+      }
+    ],
+    region: "UA-26",
+    type: {
+      id: 1,
+      name: "ТЭЦ",
+      color: "#113aa3",
+      icon: "images/logo.svg"
+    }
+  },
+  {
+    id: 32,
+    title: "ГАЛИЧЦЕМЕНТ",
+    owner: "КРУЦЬ МИКОЛА ФЕДОРОВИЧ",
+    person: "МАКОВІЙЧУК МИКОЛА ВАСИЛЬОВИЧ",
+    address: "ул. Железнодорожная, 1а",
+    latitude: 49.082982,
+    longitude: 24.790677,
+
+    phones: "(0342) 583709, (0342) 583764",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "835 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "826 км."
+      },
+      {
+        name: "Словечно",
+        distance: "591 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "488 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "382 км."
+      }
+    ],
+    region: "UA-26",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 33,
+    title: "Бурштынская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "Шувар Андрій Йосипович",
+    address: "Н09",
+    latitude: 49.208618,
+    longitude: 24.667257,
+
+    phones: "8032257205",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "795 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "786 км."
+      },
+      {
+        name: "Словечно",
+        distance: "551 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "453 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "364 км."
+      }
+    ],
+    region: "UA-26",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 34,
+    title: "ИВАНО-ФРАНКОВСКЦЕМЕНТ",
+    owner: "КРУЦЬ МИКОЛА ФЕДОРОВИЧ",
+    person: "КРУЦЬ МИКОЛА ФЕДОРОВИЧ",
+    address: "станция Ямница",
+    latitude: 48.9753334,
+    longitude: 24.7121088,
+
+    phones: "80342583717, 80342583763",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "828 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "819 км."
+      },
+      {
+        name: "Словечно",
+        distance: "584 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "481 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "397км."
+      }
+    ],
+    region: "UA-26",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 35,
+    title: "Дарницкая ТЭЦ (ТОВ ЕВРО-РЕКОНСТРУКЦИЯ)",
+
+    owner: "ШКРІБЛЯК АНАТОЛІЙ ВАСИЛЬОВИЧ",
+    person: "СЕЛІВАНОВ В'ЯЧЕСЛАВ ВОЛОДИМИРОВИЧ",
+    address: "ул. Гната Хоткевича, 20",
+    latitude: 50.446834,
+    longitude: 30.642504,
+
+    phones: "(044)2210874",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "331 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "267 км."
+      },
+      {
+        name: "Словечно",
+        distance: "252 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "378 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "531 км."
+      }
+    ],
+    region: "UA-30",
+    type: {
+      id: 1,
+      name: "ТЭЦ",
+      color: "#113aa3",
+      icon: "images/logo.svg"
+    }
+  },
+  {
+    id: 36,
+    title: "ЭКОЦЕМ, ООО",
+    owner: "ЩЕРБАТЮК МИХАЙЛО АНАТОЛІЙОВИЧ",
+    person: "ЩЕРБАТЮК МИХАЙЛО АНАТОЛІЙОВИЧ",
+    address: "ул. Мазепы, 3б, оф. 197",
+    latitude: 50.443415,
+    longitude: 30.546993,
+
+    phones: "(044) 5990201",
+    railways: 0,
+    destinations: [],
+    region: "UA-30",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 37,
+    title: "АВ ПОЛИМЕР ГРУПП",
+    owner: "СКРИПНИК ВАЛЕНТИН ПЕТРОВИЧ, ЯКОВЛЕВ ВОЛОДИМИР БОРИСОВИЧ",
+    person: "ЯКОВЛЕВ ВОЛОДИМИР БОРИСОВИЧ",
+    address: "просп. Леся Курбаса, 13а",
+    latitude: 50.425528,
+    longitude: 30.373776,
+
+    phones: "(044) 3536810",
+    railways: 0,
+    destinations: [],
+    region: "UA-30",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 38,
+    title: "АВС-ГРУПП",
+    owner:
+    "ЗАКРЕВСЬКИЙ АНДРІЙ ВАЛЕРІЙОВИЧ, ПЕТРИШИН ОЛЕГ ГРИГОРОВИЧ(ТОВ ИЗОБУД-ТРЕЙД)",
+    person: "ПЕТРИШИН ОЛЕГ ГРИГОРОВИЧ",
+    address: "ул. Луговая, 9",
+    latitude: 50.386578,
+    longitude: 30.45167,
+
+    phones: "(044) 5373730",
+    railways: 0,
+    destinations: [],
+    region: "UA-30",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 39,
+    title: "АРКТУР ПРИМ, ТОВ",
+    owner: "ГАВРИЛОВ ЯРОСЛАВ СЕРГІЙОВИЧ, МАЗУРОК ПАВЛО СТЕПАНОВИЧ",
+    person: "МАЗУРОК ПАВЛО СТЕПАНОВИЧ",
+    address: "просп. Палладина, 34",
+    latitude: 50.467079,
+    longitude: 30.356984,
+
+    phones: "(044) 4514509",
+    railways: 0,
+    destinations: [],
+    region: "UA-30",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 40,
+    title: "ВОСТОКЦЕМПРОМ",
+    owner: "БУЧАКА ВАСИЛЬ ІВАНОВИЧ, БУЧАКА КАТЕРИНА АНАТОЛІЇВНА",
+    person: "Бучака Екатерина Анатольевна",
+    address: "ул. Радужная, 6",
+    latitude: 50.491859,
+    longitude: 30.5837,
+
+    phones: "(044) 5015469, (067) 5069449 (контактная информация)",
+    railways: 0,
+    destinations: [],
+    region: "UA-30",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 41,
+    title: "ЕВРО СТАНДАРТ 69",
+    owner: "КАШУК АНАТОЛІЙ МИКОЛАЙОВИЧ",
+    person: "КАШУК АНАТОЛІЙ МИКОЛАЙОВИЧ",
+    address: "ул. Богатырская, 11",
+    latitude: 50.52283,
+    longitude: 30.4792585,
+
+    phones: "(044) 2273384",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "349 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "285 км."
+      },
+      {
+        name: "Словечно",
+        distance: "235 км"
+      },
+      {
+        name: "Удрицк",
+        distance: "361 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "514 км."
+      }
+    ],
+    region: "UA-30",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 42,
+    title: "Трипольская ТЭС",
+    owner: 'Корчинський Олександр Сигізмундович (ПАТ "ЦЕНТРЕНЕРГО")',
+    person: "Кравец Петр Павлович",
+    address: "ул. Промышленная",
+    latitude: 50.134145,
+    longitude: 30.751743,
+
+    phones: "(04572) 55273",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "379 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "315 км."
+      },
+      {
+        name: "Словечно",
+        distance: "282 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "408 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "561 км."
+      }
+    ],
+    region: "UA-32",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 43,
+    title: "АГРО-ГАРАНТ-САХАР",
+    subtitle: "прекращена в ведомости ЕДРПОУ на 31.08.2020",
+    owner:
+    "АПОСТОЛОВ ВОЛОДИМИР СЕРГІЙОВИЧ, ЛАПА ЮРІЙ ЙОСИПОВИЧ, КОВАЛЕНКО ЮРІЙ КИМОВИЧ",
+    person: "Саенко Владимир Владимирович",
+    address: "ул. Комарова, 64",
+    latitude: 48.493657,
+    longitude: 32.238124,
+
+    phones: "(0522) 361037",
+    railways: 0,
+    destinations: [],
+    region: "UA-35",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 44,
+    title: "СВЕТЛОВОДСКИЙ ЗАВОД СИЛИКАТНЫХ ИЗДЕЛИЙ",
+    owner: "ДМИТРІЄВ ІГОР ЮРІЙОВИЧ, ШКРЕБЕЦЬ ЄВГЕНІЙ ФЕДОРОВИЧ",
+    person: "Климашевский Александр Борисович",
+    address: "Кременчугское шоссе 1",
+    latitude: 49.049684,
+    longitude: 33.228469,
+
+    phones: "(05236) 22616, (05236) 21675, (05236) 21673",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "448 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "467 км."
+      },
+      {
+        name: "Словечно",
+        distance: "575 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "698 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "854 км."
+      }
+    ],
+    region: "UA-35",
+    type: {
+      id: 2,
+      name: "Завод селикатных изделий",
+      color: "#d81e1e",
+      icon: "images/f26a9cc7af5aaf6987093cb1779fbf70.svg"
+    }
+  },
+  {
+    id: 45,
+    title: "Луганская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "САФОНОВ БОРИС ДМИТРОВИЧ",
+    address: "ул. Гагарина",
+    latitude: 48.748571,
+    longitude: 39.261028,
+
+    phones: "380642965207",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "780 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "860 км."
+      },
+      {
+        name: "Словечно",
+        distance: "1033 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "1192 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1350 км."
+      }
+    ],
+    region: "UA-09",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 46,
+    title: "«МИКОЛАЇВЦЕМЕНТ»",
+    owner:
+    "КІНЦЕВИЙ БЕНЕФІЦІАРНИЙ ВЛАСНИК (КОНТРОЛЕР)-У ЮРИДИЧНОЇ ОСОБИ ВІДСУТНІЙ, КІНЦЕВИЙ БЕНЕФІЦІАРНИЙ ВЛАСНИК (КОНТРОЛЕР) В УЧАСНИКА (ЗАСНОВНИКА) ЮРИДИЧНОЇ ОСОБИ, ЯКЩО УЧАСНИК (ЗАСНОВНИК)-ЮРИДИЧНА ОСОБА, ВІДСУТНІЙ.",
+    person: "ПОЛУЛЄХ ЄВГЕН ЮРІЙОВИЧ",
+    address: "шоссе Стрыйское, 1",
+    latitude: 49.5190499,
+    longitude: 23.9461104,
+
+    phones: "(03241) 41105, (03241) 41985(контактная информация)",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "790 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "781 км."
+      },
+      {
+        name: "Словечно",
+        distance: "546 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "392 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "308 км."
+      }
+    ],
+    region: "UA-46",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 47,
+    title: "Добротворская ТЭС",
+    owner: "Ахметов Рінат Леонідович (Dtek Energy B.v.)",
+    person: "ІВАНІШИН СЕРГІЙ ІВАНОВИЧ",
+    address: "ул. Промышленная, 12",
+    latitude: 50.214693,
+    longitude: 24.37651,
+
+    phones: "25432164",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "733 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "724 км."
+      },
+      {
+        name: "Словечно",
+        distance: "489 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "333 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "202 км."
+      }
+    ],
+    region: "UA-46",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 48,
+    title: "ДОБРОТВОР-РАЗНОСЕРВИС, ЧП",
+    owner: "Гнидец Игорь Иванович",
+    person: "Гнидец Игорь Иванович",
+    address: "ул. Сагайдачного, 11, к. 16",
+    latitude: 50.201479,
+    longitude: 24.384476,
+
+    phones: "(067) 6727778, (050) 5538209 (контакная информация)",
+    railways: 0,
+    destinations: [],
+    region: "UA-46",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 49,
+    title: "«ЮГ-Цемент», ПАО",
+    subtitle: "прекращена в ведомости ЕДРПОУ на 31.08.2020",
+    owner: "БУЦЦІ С.П.А, ДІКЕРГОФФ ГМБХ, ФІМЕДІ С.П.А",
+    person: "ПЕТРЕНКО ФЕДІР МИКОЛАЙОВИЧ",
+    address: "ул. Промышленная, 9",
+    latitude: 47.1706967,
+    longitude: 31.7586372,
+
+    phones: "(0512) 594501",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "745 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "733 км."
+      },
+      {
+        name: "Словечно",
+        distance: "788 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "914 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1064 км."
+      }
+    ],
+    region: "UA-48",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 50,
+    title: "ЦЕМЕНТ, ООО",
+    owner:
+    "КІНЦЕВИЙ БЕНЕФІЦІАРНИЙ ВЛАСНИК ВІДСУТНІЙ, АКЦІЇ ТОРГУЮТЬСЯ НА БІРЖІ.",
+    person: "Моспанок Сергей Игоревич",
+    address: "ул. Хуторская, 70",
+    latitude: 46.534797,
+    longitude: 30.621756,
+
+    phones: "(048) 7380972",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "560 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "548 км."
+      },
+      {
+        name: "Словечно",
+        distance: "656 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "782 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "878 км."
+      }
+    ],
+    region: "UA-51",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 51,
+    title: 'ТОВ "АКТИВАТОР"',
+    owner:
+    "ЖИГІЛЬ ТЕТЯНА МИКОЛАЇВНА, БІЗІН ЮРІЙ ВОЛОДИМИРОВИЧ, РЕДЬКІНА НАТАЛЯ ОЛЕКСІЇВНА, ОСИПА МАКСИМ МИКОЛАЙОВИЧ",
+    person: "ОСИПА МАКСИМ МИКОЛАЙОВИЧ",
+    address: "ул. Ильфа и Петрова, 21, к. 66",
+    latitude: 46.397057,
+    longitude: 30.7134234,
+
+    phones: "(048) 7063391",
+    railways: 0,
+    destinations: [],
+    region: "UA-51",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 52,
+    title: "«Волинь-Цемент»",
+    subtitle: "прекращена в ведомости ЕДРПОУ на 31.08.2020",
+    owner: "БУЦЦІ С.П.А, ДІКЕРГОФФ ГМБХ, ФІМЕДІ С.П.А",
+    person: "ДАВИДЮК ІГОР ОЛЕКСІЙОВИЧ",
+    address: "ул. Шевченка, 1",
+    latitude: 50.5431213,
+    longitude: 26.2551228,
+    phones: "(03652) 69205",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "550 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "541 км."
+      },
+      {
+        name: "Словечно",
+        distance: "306 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "152 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "212 км."
+      }
+    ],
+    region: "UA-56",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 53,
+    title: "Сумская ТЭЦ",
+    owner:
+    'ШКРІБЛЯК АНАТОЛІЙ ВАСИЛЬОВИЧ (КОМПАНІЯ "ВАІДА ЕНТЕРПРАЙСІЗ ЛІМІТЕД")',
+    person: "ВАСЮНІН ДМИТРО ГЕННАДІЙОВИЧ",
+    address: "",
+    latitude: 50.9325,
+    longitude: 34.819167,
+
+    phones: "380542787516, 380542786601",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "304 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "375 км."
+      },
+      {
+        name: "Словечно",
+        distance: "548 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "707 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "864 км."
+      }
+    ],
+    region: "UA-59",
+    type: {
+      id: 1,
+      name: "ТЭЦ",
+      color: "#113aa3",
+      icon: "images/logo.svg"
+    }
+  },
+  {
+    id: 54,
+    title: "ТЕРУКРЦЕМЕНТ",
+    owner:
+    "ГОНЧАР РАЇСА ВОЛОДИМИРІВНА, ЄВСЄЄВ ВОЛОДИМИР ОЛЕКСІЙОВИЧ, ЗУБЦОВ ВЛАДИСЛАВ ВІКТОРОВИЧ",
+    person: "ЄВСЄЄВ ВОЛОДИМИР ОЛЕКСІЙОВИЧ",
+    address: "ул. Сечевых Стрельцов, 42",
+    latitude: 49.093435,
+    longitude: 25.167054,
+
+    phones: "(095) 6222222",
+    railways: 0,
+    destinations: [],
+    region: "UA-61",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 55,
+    title: "ВОСТОК ЦЕМЕНТ",
+    owner: 'ОЛІЙНИК ДМИТРО ОЛЕКСАНДРОВИЧ (ТОВ "ОЛ ЦЕМ")',
+    person: "Тарусина Татьяна Ивановна",
+    address: "ул. Геологическая, 12",
+    latitude: 49.474663,
+    longitude: 36.851481,
+
+    phones: "(066) 8350663, 380917542307",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "569 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "640 км."
+      },
+      {
+        name: "Словечно",
+        distance: "799 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "925 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1078 км."
+      }
+    ],
+    region: "UA-63",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 56,
+    title: "Балаклейский цементный завод",
+    owner: "КІНЦЕВИЙ БЕНЕФІЦІАРНИЙ ВЛАСНИК ВІДСУТНІЙ",
+    person: "ГАЙВОРОНСЬКА МАРГАРИТА СЕРАФИМІВНА",
+    address: "станция Янковский",
+    latitude: 49.492829,
+    longitude: 36.749085,
+
+    phones: "(057)4962018, (057)4962218",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "569 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "413 км."
+      },
+      {
+        name: "Словечно",
+        distance: "442 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "568 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "719 км."
+      }
+    ],
+    region: "UA-63",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 57,
+    title: "ОЛ ЦЭМ",
+    owner: "ОЛІЙНИК ДМИТРО ОЛЕКСАНДРОВИЧ",
+    person: "РЯДИНСЬКИЙ МИХАЙЛО ПЕТРОВИЧ",
+    address: "ул. Геологическая, 12",
+    latitude: 49.474663,
+    longitude: 36.851481,
+
+    phones: "0503052567, 0574923036 (контактная информация)",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "569 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "414 км."
+      },
+      {
+        name: "Словечно",
+        distance: "441 км.\t"
+      },
+      {
+        name: "Удрицк",
+        distance: "567 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "718 км."
+      }
+    ],
+    region: "UA-63",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 58,
+    title: "ЕЛАВУС ЛТД",
+    owner: "ХОДЖАНАЗАРОВ ЯГШИГЕЛДІ",
+    person: "ХОДЖАНАЗАРОВ ЯГШИГЕЛДІ",
+    address: "ул. Харьковская, 5",
+    latitude: 49.9343385,
+    longitude: 36.2436416,
+
+    phones: "(066) 0380160",
+    railways: 0,
+    destinations: [],
+    region: "UA-63",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 59,
+    title: 'ЛУГАНСКИЙ ЦЕМЕНТ, ТОВ "НЕОСТИЛ"',
+    owner: "Блинков Максим Викторович",
+    person: "Блинков Максим Викторович",
+    address: "ул. Маяковского, 14",
+    latitude: 50.009748,
+    longitude: 36.243572,
+
+    phones: "(06442) 53300",
+    railways: 0,
+    destinations: [],
+    region: "UA-63",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 60,
+    title: "Змиевская ТЭС",
+    owner: 'Корчинський Олександр Сигізмундович (ПАТ "ЦЕНТРЕНЕРГО")',
+    person: "ПЛОТНІКОВ СЕРГІЙ ІВАНОВИЧ",
+    address: "ул. Циалковского",
+    latitude: 49.585115,
+    longitude: 36.523017,
+
+    phones: "80574752487",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "548 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "606 км."
+      },
+      {
+        name: "Словечно",
+        distance: "765 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "891 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1044 км."
+      }
+    ],
+    region: "UA-63",
+    type: {
+      id: 2,
+      name: "ТЭС",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 61,
+    title: "Эсхаровская ТЭЦ-2",
+    subtitle: "В состоянии прекращения",
+    owner: "МІНЕНЕРГОВУГІЛЛЯ",
+    person: "САПА АНАТОЛІЙ МИКОЛАЙОВИЧ",
+    address: "ул. 152-й Стрелковой Дивизии, 16",
+    latitude: 49.801318,
+    longitude: 36.600144,
+
+    phones: "80574630102",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "532 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "603 км."
+      },
+      {
+        name: "Словечно",
+        distance: "762 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "888 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1041 км."
+      }
+    ],
+    region: "UA-63",
+    type: {
+      id: 1,
+      name: "ТЭЦ",
+      color: "#113aa3",
+      icon: "images/logo.svg"
+    }
+  },
+  {
+    id: 62,
+    title: 'ТОВ "ХЕРСОНСКИЙ ЗАВОД БМЗК"',
+    owner:
+    "ЛЕЛЕЧЕНКО НАТАЛІЯ ВІКТОРІВНА, НАДТОЧІЙ ВОЛОДИМР ІВАНОВИЧ, СЕМЕНЮК ВАСИЛЬ ВАСИЛЬОВИЧ",
+    person: "СЕМЕНЮК ВАСИЛЬ ВАСИЛЬОВИЧ",
+    address: "ул. Люксембург, 6",
+    latitude: 46.650128,
+    longitude: 32.590695,
+    phones: "0993066779 (контактная информация)",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "778 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "766 км."
+      },
+      {
+        name: "Словечно",
+        distance: "821 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "947 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "1098 км."
+      }
+    ],
+    region: "UA-65",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 63,
+    title: "ПОДОЛЬСК-ЦЕМЕНТ",
+    owner:
+    "АКЦІОНЕРИ ЗГІДНО З РЕЄСТРОМ ВЛАСНИКІВ ІМЕННИХ ЦІННИХ ПАПЕРІВ., Розмір внеску до статутного фонду (грн.): 907452000",
+    person: "Маккеон Кевiн Джерард",
+    address: "шоссе Хмельницкое, 1а",
+    latitude: 48.749549,
+    longitude: 26.6047193,
+
+    phones: "0384967215",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "690 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "681 км."
+      },
+      {
+        name: "Словечно",
+        distance: "446 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "498 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "498 км."
+      }
+    ],
+    region: "UA-68",
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  },
+  {
+    id: 64,
+    title: "Черкасская ТЭЦ",
+    owner: "ПАТ ГОРОДИЩИВСЬКИЙ ЦУКРОВИЙ ЗАВОД",
+    person: "ПИЛЬНОВА  ОЛЕНА ПЕТРІВНА",
+    address: "пр. Химиков, 76",
+    latitude: 49.386111,
+    longitude: 32.060833,
+
+    phones: "362191",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "381 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "373 км."
+      },
+      {
+        name: "Словечно",
+        distance: "477 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "603 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "756 км."
+      }
+    ],
+    region: "UA-71",
+    type: {
+      id: 1,
+      name: "ТЭЦ",
+      color: "#113aa3",
+      icon: "images/logo.svg"
+    }
+  },
+  {
+    id: 65,
+    title: "Черниговская ТЭЦ",
+    owner: 'ШКРІБЛЯК АНАТОЛІЙ ВАСИЛЬОВИЧ (ТОВ ФІРМА "ТЕХНОВА")',
+    person: "Щербина Олексій Юрійович",
+    address: "ул. Ушинского, 23",
+    latitude: 51.457225,
+    longitude: 31.258346,
+
+    phones: "(0462) 69-42-18",
+    railways: 1,
+    destinations: [
+      {
+        name: "Тереховка",
+        distance: "143 км."
+      },
+      {
+        name: "Горностаевка",
+        distance: "72 км."
+      },
+      {
+        name: "Словечно",
+        distance: "307 км."
+      },
+      {
+        name: "Удрицк",
+        distance: "466 км."
+      },
+      {
+        name: "Заболотье",
+        distance: "698 км."
+      }
+    ],
+    region: null,
+    type: {
+      id: 1,
+      name: "ТЭЦ",
+      color: "#113aa3",
+      icon: "images/logo.svg"
+    }
+  },
+  {
+    id: 66,
+    title: "Ф-БЕТОН",
+    owner: "Ивончак Юрий Васильевич",
+    person: "Ивончак Юрий Васильевич",
+    address: "ул. Руская, 248м",
+    latitude: 48.27213,
+    longitude: 25.987894,
+
+    phones: "(0372) 570339",
+    railways: 0,
+    destinations: [],
+    region: null,
+    type: {
+      id: 3,
+      name: "Цементный завод",
+      color: null,
+      icon: null
+    }
+  }
+]

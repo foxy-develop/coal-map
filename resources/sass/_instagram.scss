@@ -1,0 +1,216 @@
+$breakpoint: 580px;
+
+.section-instagram {
+  pointer-events: none;
+  margin: 27.8vw 0 16.25vw;
+
+  @media only screen and (max-width: $breakpoint) {
+    margin: 27.778vw 0;
+    pointer-events: all;
+  }
+}
+
+.inst-grid {
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 70vw;
+  height: 60vw;
+  margin: 0 calc(100vw / 20 * 3);
+  position: absolute;
+
+  @media only screen and (max-width: $breakpoint) {
+    margin: 0;
+    width: 100vw;
+    height: 89.444vw;
+  }
+}
+
+.grid-container {
+  width: 100vw;
+  height: 400vh;
+  position: relative;
+}
+
+.s-instagram-scroller {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  @media only screen and (max-width: $breakpoint) {
+    display: none;
+  }
+}
+
+.inst-grid__item {
+  background-size: cover;
+}
+
+.inst-grid__layer {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  :nth-child(1) {
+    .s-instagram-block {
+      top: 5vw;
+      left: 20vw;
+      width: 10vw;
+      height: 10vw;
+      @media only screen and (max-width: $breakpoint) {
+        top: 11.111vw;
+        left: 23.889vw;
+        width: 15vw;
+        height: 15vw;
+      }
+    }
+  }
+  :nth-child(2) {
+    .s-instagram-block {
+      top: 0;
+      left: 32.5vw;
+      width: 15vw;
+      height: 15vw;
+      @media only screen and (max-width:$breakpoint) {
+        top: 0;
+        left: 43.333vw;
+        width: 26.389vw;
+        height: 26.389vw;
+      }
+    }
+  }
+  :nth-child(3) {
+    .s-instagram-block {
+      left: 0;
+      top: 25vw;
+      width: 15vw;
+      height: 15vw;
+      @media only screen and (max-width: $breakpoint) {
+        top: 30.278vw;
+        left: 0;
+        width: 26.389vw;
+        height: 26.389vw;
+      }
+    }
+  }
+  :nth-child(4) {
+    .s-instagram-block {
+      top: 17.5vw;
+      left: 17.5vw;
+      width: 30vw;
+      height: 30vw;
+      @media only screen and (max-width: $breakpoint) {
+        top: 30.278vw;
+        left: 30.278vw;
+        width: 39.444vw;
+        height: 39.444vw;
+      }
+    }
+  }
+  :nth-child(5) {
+    z-index: 1;
+    .s-instagram-block {
+      top: 20vw;
+      left: 50vw;
+      width: 5vw;
+      height: 5vw;
+      background-color: #ae97a2;
+      transition: background-color 0.4s ease-out;
+      &:hover {
+        background-color: #98808b;
+      }
+      @media only screen and (max-width: $breakpoint) {
+        top: 23.889vw;
+        left: 73.889vw;
+        width: 15.278vw;
+        height: 15.278vw;
+      }
+    }
+    a {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    svg {
+      width: 1.75vw;
+      @media only screen and (max-width: $breakpoint) {
+        width: 4.722vw;
+      }
+    }
+  }
+  :nth-child(6) {
+    .s-instagram-block {
+      left: 50vw;
+      top: 27.5vw;
+      width: 20vw;
+      height: 20vw;
+      @media only screen and (max-width: $breakpoint) {
+        top: 43.889vw;
+        left: 73.889vw;
+        width: 26.389vw;
+        height: 26.389vw;
+      }
+    }
+  }
+  :nth-child(7) {
+    .s-instagram-block {
+      left: 10vw;
+      top: 42.5vw;
+      width: 5vw;
+      height: 5vw;
+      @media only screen and (max-width: $breakpoint) {
+        display: none;
+      }
+    }
+  }
+  :nth-child(8) {
+    .s-instagram-block {
+      bottom: 5vw;
+      left: 42.5vw;
+      width: 5vw;
+      height: 5vw;
+      @media only screen and (max-width: $breakpoint) {
+        display: none;
+      }
+    }
+  }
+  :nth-child(9) {
+    .s-instagram-block {
+      bottom: 0;
+      left: 50vw;
+      width: 10vw;
+      height: 10vw;
+      @media only screen and (max-width: $breakpoint) {
+        top: 73.889vw;
+        left: 58.889vw;
+        width: 15.278vw;
+        height: 15.278vw;
+      }
+    }
+  }
+}
+
+.s-instagram-block {
+  display: block;
+  position: absolute;
+}
+
+.s-instagram-text {
+  margin: 0 calc(100vw / 20 * 10) 0 calc(100vw / 20 * 4);
+
+  @media only screen and (max-width: $breakpoint) {
+    margin: 0 calc(100vw / 12 * 1);
+  }
+
+  .f-pr, .f-bp {
+    margin-left: calc(100vw / 20 * 1);
+    margin-right: calc(100vw / 20 * 2);
+    @media only screen and (max-width: $breakpoint) {
+      margin-left: calc(100vw / 12 * 1);
+      margin-right: calc(100vw / 12 * 1);
+    }
+  }
+}
